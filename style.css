@@ -1,0 +1,19 @@
+table {
+  table-layout: fixed;
+   width: 600px;
+}
+
+thead th:nth-child(1) {
+  width: 15px;
+  text-align: left;
+}
+
+thead th:nth-child(2) {
+  width: 450px;
+  text-align: left;
+}
+
+thead th:nth-child(3) {
+  width: 135px;
+  text-align: left;
+}
