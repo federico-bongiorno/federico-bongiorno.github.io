@@ -1,6 +1,5 @@
 table {
   table-layout: fixed;
-   width: 600px;
 }
 
 thead th:nth-child(1) {
@@ -9,7 +8,7 @@ thead th:nth-child(1) {
 }
 
 thead th:nth-child(2) {
-  width: 450px;
+  width: 500px;
   text-align: left;
 }
 
